@@ -58,7 +58,7 @@ Edit by changing `bindKeyboard` in `js/other/controls.js`.
 
 You can find ROM file in [`/rom/game.gb`](https://github.com/lolmao-ers/Hack-Cade/blob/master/rom/game.gb)
 
-You can find APK file in [`/Anti-Virus.apk`](https://github.com/lolmao-ers/Hack-Cade/blob/master/Anti-Virus.apk)
+You can find APK file in [Releases](https://github.com/lolmao-ers/Hack-Cade/releases/tag/1.0)
 
 Supported on both PC, Android and, other Mobile Browsers.
 
