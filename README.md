@@ -60,7 +60,7 @@ You can find ROM file in [`/rom/game.gb`](https://github.com/lolmao-ers/Hack-Cad
 
 You can find APK file in [`/Anti-Virus.apk`](https://github.com/lolmao-ers/Hack-Cade/blob/master/Anti-Virus.apk)
 
-Supported on both PC and Mobile Browsers.
+Supported on both PC, Android and, other Mobile Browsers.
 
 ![pacman](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/556/002/datas/gallery.jpg)
 ![mario](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/556/003/datas/gallery.jpg)
