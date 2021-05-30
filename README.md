@@ -53,6 +53,7 @@ Start - Enter
 Select - Shift  
 
 Edit by changing `bindKeyboard` in `js/other/controls.js`.
+You can find ROM file in [`/rom/game.gb`](https://github.com/lolmao-ers/Hack-Cade/blob/master/rom/game.gb)
 
 ![pacman](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/556/002/datas/gallery.jpg)
 ![mario](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/556/003/datas/gallery.jpg)
