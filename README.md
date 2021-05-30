@@ -4,7 +4,7 @@
 
 [Youtube-Gameplay](https://youtu.be/ETZXa2UleZo)
 
-During thesw tough times, staying at home has become monotonous and boring with sources of entertainment dwindling daily. So, we at TeamOP decided to make a cool throwback to 90s Retro Games with diverse and fun-to-play levels. 
+During these tough times, staying at home has become monotonous and boring with sources of entertainment dwindling daily. So, we at TeamOP decided to make a cool throwback to 90s Retro Games with diverse and fun-to-play levels. 
 
 ## What it does
 
